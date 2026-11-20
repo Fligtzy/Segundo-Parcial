@@ -66,7 +66,7 @@ Carlos Méndez (corporativo), Sedán con tarifa 2,200, 3 días, seguro completo;
 | ITBIS | RD$ 2,339.10 |
 | **Total** | **RD$ 15,334.10** |
 
-<img width="1060" height="557" alt="image" src="https://github.com/user-attachments/assets/bfd86c37-6921-4318-9e85-297f6ff9bd93" />
+<img width="1065" height="559" alt="image" src="https://github.com/user-attachments/assets/fdfb2c90-7b57-4719-9742-8c8745bf4438" />
 
 <img width="1063" height="559" alt="image" src="https://github.com/user-attachments/assets/3efa8260-52c0-47ff-8636-3d24d7a20066" />
 
