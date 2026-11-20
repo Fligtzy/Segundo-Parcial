@@ -67,7 +67,7 @@ namespace Examen_RentaCar_SuNombre
                                   + tarifa.ToString("N2").PadLeft(10)
                                   + total.ToString("N2").PadLeft(12));
 
-            // reiniciar controles del vehículo
+            
             txtVehiculo.Clear();
             txtTarifa.Clear();
             nudDias.Value = 1;
